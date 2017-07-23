@@ -3,3 +3,4 @@
 2. test setting upstream using git branch --set-upstream-to <remote branch>
 3. test the different between **merge** and **rebase**
 4. what's the next test???
+5. ...
